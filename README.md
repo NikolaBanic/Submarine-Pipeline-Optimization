@@ -2,7 +2,7 @@
 
 **Optimization of Submarine Pipelines**
 
-![Pipeline Optimization](link_to_image_or_screenshot.png)
+![Pipeline Optimization](Output_Data/Optimized_Pipeline_2D_Best.png)
 
 ## Overview
 
