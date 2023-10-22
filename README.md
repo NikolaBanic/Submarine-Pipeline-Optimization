@@ -39,7 +39,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:** `git clone https://github.com/NikolaBanic/Submarine-Pipeline-Optimization.git`
 
-2. **Install Dependencies:** Install the necessary Python libraries and dependencies, which may include geospatial libraries and PSO packages.
+2. **Install Dependencies:** Install the necessary Python libraries and dependencies, which include geospatial libraries and indago library for PSO optimization.
 
 3. **Run the Script:** Execute the `Submarine_Pipeline_Optimization.py` script, providing the input data as described above.
 
