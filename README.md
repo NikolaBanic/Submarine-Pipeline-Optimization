@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 
 4. **View the Results:** Check the `Output_Data` directory for the optimized pipeline route and visualizations.
 
-## Contributing
+## Contributing 
 
 We welcome contributions to enhance this project. If you have ideas for improvements or would like to contribute code, please feel free to submit pull requests.
 
