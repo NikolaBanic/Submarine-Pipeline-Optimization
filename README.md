@@ -15,7 +15,7 @@ Submarine Pipeline Optimization is a Python script designed to optimize the rout
 - **Input_Data/sea_floor_type:** Contains shapefiles that describe various seabed types, crucial for selecting the most suitable conditions.
 
 ## Output
-
+ 
 The results of the optimization process are saved in the **Output_Data** directory, including the optimized submarine pipeline route and its visualization.
 
 ## Optimization Goal
